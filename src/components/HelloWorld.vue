@@ -28,7 +28,6 @@
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
     <el-button>默认按钮</el-button>
-    <el-button type="primary">主要按钮</el-button>
   </div>
 </template>
 
